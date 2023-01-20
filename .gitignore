@@ -1,0 +1,39 @@
+# dependencies
+/vendor/
+
+# environment-specific files
+/.env
+/.env.*.local
+/.env.*.local.php
+/.env.local
+/.env.local.php
+/.env.php
+/.env.test
+/.env.test.local
+/.env.test.local.php
+
+# runtime files
+/var/
+/var/*/
+/var/cache/
+/var/cache/*/
+/var/log/
+/var/log/*/
+/var/sessions/
+/var/sessions/*/
+/var/tests/
+/var/tests/*/
+
+# build files
+/.phpunit.result.cache
+/.phpunit.result.cache.html
+/.phpunit.result.cache.serialized
+/.phpunit.result.cache.xml
+/.phpunit.result.cache.tap
+/composer.lock
+/phpunit.xml
+/symfony.lock
+/webpack.config.js
+/webpack.config.js.map
+/webpack.config.prod.js
+/webpack.config.prod.js.map
