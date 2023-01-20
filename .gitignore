@@ -23,6 +23,7 @@
 /var/sessions/*/
 /var/tests/
 /var/tests/*/
+/.idea/
 
 # build files
 /.phpunit.result.cache
